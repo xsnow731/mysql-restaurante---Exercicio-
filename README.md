@@ -1,6 +1,3 @@
-# mysql-restaurante - Exercicio EBAC
-Banco de dados relacional para restaurante
-
 
 # Banco de Dados para Restaurante (MySQL)
 
